@@ -1,0 +1,16 @@
+{
+  "name": "jquery_lite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webpack-w": "webpack --watch lib/main.js -o lib/jquery_lite.js --mode=development"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
